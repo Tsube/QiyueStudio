@@ -326,6 +326,5 @@ body2 {
 }
 
 .title {
-    margin: auto;
-    width: 200px;
+    margin: 0 auto;
 }

@@ -89,8 +89,9 @@ body2 {
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
+  overflow-x: auto;
   margin-bottom: 50px;
+  white-space: nowrap;
 }
 .card {
   display: grid;

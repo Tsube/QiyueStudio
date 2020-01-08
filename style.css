@@ -91,6 +91,7 @@ body2 {
   justify-content: left;
   overflow-x: auto;
   margin-bottom: 50px;
+  margin-right: 80px;
 }
 .card {
   display: grid;

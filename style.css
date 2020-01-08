@@ -326,5 +326,6 @@ body2 {
 }
 
 .title {
-    text-align: center;
+    margin: auto;
+    width: 200px;
 }

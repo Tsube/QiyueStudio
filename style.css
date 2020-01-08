@@ -315,7 +315,7 @@ body2 {
 
 .footer {
     padding: 12px;
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;

@@ -86,7 +86,6 @@ body {
 body2 {
   width: 100vw;
   height: 75vh;
-  display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -315,7 +314,7 @@ body2 {
 
 .footer {
     padding: 12px;
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;

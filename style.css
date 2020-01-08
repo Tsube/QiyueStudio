@@ -255,10 +255,6 @@ body2 {
   font-weight: 300;
   text-transform: uppercase;
 }
-.card:hover {
-  transform: scale(1.15);
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
-}
 
 /*card2*/
 .card-image.card2 {

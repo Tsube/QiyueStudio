@@ -324,3 +324,7 @@ body2 {
     text-align: center;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
 }
+
+.title {
+    vertical-align: center;
+}

@@ -87,9 +87,9 @@ body2 {
   height: 10%;
   width: 100%;
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: center;
-  overflow-x: scroll;
+  overflow-x: auto;
   margin-bottom: 50px;
 }
 .card {

@@ -87,8 +87,8 @@ body2 {
   height: 10%;
   width: 100%;
   display: flex;
-  align-items: left;
-  justify-content: center;
+  align-items: center;
+  justify-content: left;
   overflow-x: auto;
   margin-bottom: 50px;
 }

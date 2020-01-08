@@ -84,8 +84,8 @@ body {
 }
 
 body2 {
-  height: 100vh;
-  weight: 100vw;
+  height: 75vh;
+  width: 100vw;
   display: flex;
   align-items: center;
   justify-content: center;
